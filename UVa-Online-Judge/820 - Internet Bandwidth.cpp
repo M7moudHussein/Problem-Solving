@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-typedef unsigned long long ll;
+typedef long long ll;
 #define pb push_back
 #define mp make_pair
 #define F first
